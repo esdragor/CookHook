@@ -1,0 +1,9 @@
+Jeu à la base sur mobile (Android)
+Collaboration avec la fondation I2ML (www.i2ml.fr)
+
+
+Controles : 	-Bouger avec le clic droit de la souris
+		-Dans les menus, utiliser le clic gauche
+
+Cliquer sur la planche à découper pour lancer le mini jeux
+
